@@ -4,4 +4,4 @@
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
 
 
-<img src="http://mazandi.herokuapp.com/api?handle=idgachan&theme=cold"/>
+<img src="http://mazandi.herokuapp.com/api?handle=idgachan&theme=dark"/>
