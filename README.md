@@ -1,6 +1,6 @@
 ### Jeong Chan
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-2ea44f?style=for-the-badge&logo=vercel&logoColor=white)](https://jeongchani.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-2ea44f?style=for-the-badge&logoColor=white)](https://jeongchani.github.io/)
 <br>
 [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=idgachan)](https://solved.ac/idgachan)
 
