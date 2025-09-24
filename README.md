@@ -24,7 +24,7 @@
 <summary>🚀 Projects</summary>
 <div markdown="1">
 
-- [프로젝트1] : [TodoBar](https://github.com/jeongchani/project1)  
+- [프로젝트1] : [TodoBar]([https://github.com/jeongchani/project1](https://github.com/Jeongchani/Project-250917/releases))  
 - [프로젝트2] : (https://github.com/jeongchani/project2)
 
 </div>
