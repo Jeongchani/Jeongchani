@@ -1,6 +1,9 @@
 ### Jeong Chan
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-2ea44f?style=for-the-badge&logoColor=white)](https://jeongchani.github.io/)
+<a href="https://jeongchani.github.io/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-2ea44f?style=for-the-badge&logoColor=white" alt="Portfolio" />
+</a>
+
 <br>
 
 
