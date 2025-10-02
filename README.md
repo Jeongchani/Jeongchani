@@ -22,10 +22,9 @@
 <summary>🚀 Projects</summary>
 <div markdown="1">
 
-- [프로젝트1] : [TodoBar](https://github.com/Jeongchani/Project-250917/releases)
-- [프로젝트2] : [Heart App](https://github.com/Jeongchani/Project-250926)
-- [프로젝트3] : [Matche Cloths](https://github.com/Jeongchani/Project-251002)
-- [프로젝트4] : (https://github.com/jeongchani/project2)
+- [TodoBar](https://github.com/Jeongchani/Project-250917/releases) : 귀여운 Bar형태의 할일 앱
+- [Heart App](https://github.com/Jeongchani/Project-250926) : 원버튼 공지 어플
+- [Matche Cloths](https://github.com/Jeongchani/Project-251002) : 가벼운 옷 색상 추천 어플
 
 </div>
 </details>
