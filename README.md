@@ -23,8 +23,6 @@
 <div markdown="1">
 
 - [TodoBar](https://github.com/Jeongchani/Project-250917/releases) : 귀여운 Bar형태의 할일 앱
-- [Heart App](https://github.com/Jeongchani/Project-250926) : 원버튼 공지 어플
-- [Matche Cloths](https://github.com/Jeongchani/Project-251002) : 가벼운 옷 색상 추천 어플
 
 </div>
 </details>
